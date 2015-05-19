@@ -1,3 +1,6 @@
+.. image:: https://badge.waffle.io/llucax/git-hub.png?label=ready&title=Ready 
+ :target: https://waffle.io/llucax/git-hub
+ :alt: 'Stories in Ready'
 ======================================
 A Git command line interface to GitHub
 ======================================
